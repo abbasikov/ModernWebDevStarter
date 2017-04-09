@@ -1,4 +1,4 @@
-# ModernWedDevelopment Starter
+# Modern Web Development Starter Project
 
 
 ### Getting Started
