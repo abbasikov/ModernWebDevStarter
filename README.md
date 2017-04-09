@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ModernWedDevelopment Starter
 
 
 ### Getting Started
